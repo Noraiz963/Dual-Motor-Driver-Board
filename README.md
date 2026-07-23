@@ -94,7 +94,7 @@ Microcontrollers can't drive motors directly — their GPIO pins can only source
 - KiCad (schematic capture, PCB layout, 3D visualization)
 
 ## Status
-Completed schematic design.
+Completed PCB design.
 
 ## Notes
 Built as a learning project to understand H-bridge motor driver operation, charge-pump-based gate driving, and fault/diagnostic circuitry — a reusable module for future robotics or motor-control projects.
